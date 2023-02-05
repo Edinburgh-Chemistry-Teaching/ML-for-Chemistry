@@ -1,19 +1,26 @@
 # Introduction to Machine Learning in Chemistry
 
-This repository contains two lectures and a workshop on introducing machine learning concepts in the advanced physical chemistry module at UoE. 
+This repository contains two lectures and a 3 session workshop on introducing machine learning concepts in the advanced physical chemistry module at UoE. 
 
 
 ## Author
 Dr Antonia Mey -- antonia.mey@ed.ac.uk
 
-## Accompanying Notebooks
+## Workshop Notebooks
 
-| Session                 | Materials |
+| Units                | Materials |
 |-----------|-------------------------|
-|Clustering in scikit-learn|[![MDA Part 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Edinburgh-Chemistry-Teaching/ML-for-Chemistry/blob/main/Unit_01/1_DR_part1.ipynb)|
-|Regressions and Dimensionality Reduction|[![Part2](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Edinburgh-Chemistry-Teaching/ML-for-Chemistry/blob/main/Unit_02/3_clustering.ipynb) |
+|Unit_01: Dimensionality Reduction|[![MDA Part 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Edinburgh-Chemistry-Teaching/ML-for-Chemistry/blob/main/Unit_01/1_DR_part1.ipynb)|
+|Unit_02: Clustering|[![Part2](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Edinburgh-Chemistry-Teaching/ML-for-Chemistry/blob/main/Unit_02/3_clustering.ipynb) |
+|Unit_03: Neural Networks and PyTorch|[![Part3](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Edinburgh-Chemistry-Teaching/ML-for-Chemistry/blob/main/Unit_03/3_clustering.ipynb) |
 
-## Summary
+## Project
+
+Release: 13/02/2023  
+Report Deadline: 10/03/2023  
+Weight: 20%
+
+## Summary of Lectures
 ### Lecture 1:
 - What is machine learning?
 - Examples of machine learning (in Chemistry)
@@ -33,6 +40,12 @@ Introduction to supervised learning:
    - Random Forests
    - Multilayer perceptrons 
 
+### Accompanying Notebooks:
+
+| Session                 | Materials |
+|-----------|-------------------------|
+|Clustering in scikit-learn|[![MDA Part 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Edinburgh-Chemistry-Teaching/ML-for-Chemistry/blob/main/Unit_01/1_DR_part1.ipynb)|
+|Regressions and Dimensionality Reduction|[![Part2](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Edinburgh-Chemistry-Teaching/ML-for-Chemistry/blob/main/Unit_02/3_clustering.ipynb) |
 
 ## Learning Outcomes
 - Understand the main pillars of machine learning
@@ -44,5 +57,5 @@ Introduction to supervised learning:
 
 
 
-## Additional Resouces
-A handout with additional resouces can be found [here.](https://github.com/meyresearch/ML_for_chemistry/blob/main/Handout.pdf)
+## Additional Resources
+A handout with additional resources can be found [here.](https://github.com/meyresearch/ML_for_chemistry/blob/main/Handout.pdf)
