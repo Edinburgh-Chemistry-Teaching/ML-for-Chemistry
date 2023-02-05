@@ -10,8 +10,8 @@ Dr Antonia Mey -- antonia.mey@ed.ac.uk
 
 | Session                 | Materials |
 |-----------|-------------------------|
-|Clustering in scikit-learn|[![MDA Part 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/meyresearch/ML_for_chemistry/blob/main/notebooks/ML_concepts_clustering.ipynb)|
-|Regressions and Dimensionality Reduction|[![Part2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/meyresearch/ML_for_chemistry/blob/main/notebooks/Machine_Learning_Chemistry_2.ipynb)
+|Clustering in scikit-learn|[![MDA Part 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Edinburgh-Chemistry-Teaching/ML-for-Chemistry/blob/main/Unit_01/1_DR_part1.ipynb)|
+|Regressions and Dimensionality Reduction|[![Part2](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Edinburgh-Chemistry-Teaching/ML-for-Chemistry/blob/main/Unit_02/3_clustering.ipynb) |
 
 ## Summary
 ### Lecture 1:
