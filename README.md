@@ -14,6 +14,25 @@ Dr Antonia Mey -- antonia.mey@ed.ac.uk
 |Unit_02: Clustering|[![Part2](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Edinburgh-Chemistry-Teaching/ML-for-Chemistry/blob/main/Unit_02/3_clustering.ipynb) |
 |Unit_03: Neural Networks and PyTorch|[![Part3](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Edinburgh-Chemistry-Teaching/ML-for-Chemistry/blob/main/Unit_03/3_clustering.ipynb) |
 
+## Local installation
+
+1. Install [anaconda](https://www.anaconda.com/products/distribution).
+2. Create a new environment:
+
+   `conda create -n ml_chem`
+   
+3. Activate the environment:
+
+   `conda activate ml_chem`
+   
+4. Install [mamba](https://anaconda.org/conda-forge/mamba) to make the installation of packages faster.
+
+   `conda install -c conda-forge mamba`
+   
+5. Install all the required packages with mamba:
+
+   `mamba install -c conda-forge mdanalysis mdanalysistests mdanalysisdata nglview scikit-learn ipywidgets=7.6.0`
+
 ## Project
 
 Release: 13/02/2023  
