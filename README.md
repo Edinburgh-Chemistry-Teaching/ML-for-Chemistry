@@ -63,8 +63,8 @@ Introduction to supervised learning:
 
 | Session                 | Materials |
 |-----------|-------------------------|
-|Clustering in scikit-learn|[![MDA Part 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Edinburgh-Chemistry-Teaching/ML-for-Chemistry/blob/main/Unit_01/1_DR_part1.ipynb)|
-|Regressions and Dimensionality Reduction|[![Part2](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Edinburgh-Chemistry-Teaching/ML-for-Chemistry/blob/main/Unit_02/3_clustering.ipynb) |
+|Dimensionality Reduction|[![MDA Part 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Edinburgh-Chemistry-Teaching/ML-for-Chemistry/blob/main/Unit_01/1_DR_part1.ipynb)|
+|Clustering and Regressions|[![Part2](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Edinburgh-Chemistry-Teaching/ML-for-Chemistry/blob/main/Unit_02/02_clustering.ipynb) |
 
 ## Learning Outcomes
 - Understand the main pillars of machine learning
