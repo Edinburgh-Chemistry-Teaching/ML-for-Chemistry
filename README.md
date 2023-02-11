@@ -12,7 +12,7 @@ Dr Antonia Mey -- antonia.mey@ed.ac.uk
 |Unit_01: Dimensionality Reduction|[![MDA Part 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Edinburgh-Chemistry-Teaching/ML-for-Chemistry/blob/main/Unit_01/1_DR_part1.ipynb)|
 |Unit_02: Clustering|[![Part2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Edinburgh-Chemistry-Teaching/ML-for-Chemistry/blob/main/Unit_02/01_clustering.ipynb) |
 |Unit_02: Classification|[![Part2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Edinburgh-Chemistry-Teaching/ML-for-Chemistry/blob/main/Unit_02/02_classification.ipynb) |
-|Unit_03: Neural Networks and PyTorch|[![Part3](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Edinburgh-Chemistry-Teaching/ML-for-Chemistry/blob/main/Unit_03/3_clustering.ipynb) |
+|Unit_03: Neural Networks and PyTorch|[![Part3](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Edinburgh-Chemistry-Teaching/ML-for-Chemistry/blob/main/Unit_03/pytorch_basics.ipynb) |
 |Unit_03:  Deep Learning for Solubility Classification|[![Part3](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Edinburgh-Chemistry-Teaching/ML-for-Chemistry/blob/main/Unit_03/02_Solubility_classification.ipynb)|
 
 ## Local installation
